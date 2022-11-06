@@ -11,7 +11,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 79,
     "Titulo": "Action - Henry V",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Terminator",
@@ -25,7 +27,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 81,
     "Titulo": "Action - The Terminator",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Matrix",
@@ -39,7 +43,9 @@
     "Rotten Tomatoes Rating": 86,
     "IMDB Rating": 87,
     "Titulo": "Action - The Matrix",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 4
   },
   {
     "Title": "The Dark Knight",
@@ -53,7 +59,9 @@
     "Rotten Tomatoes Rating": 93,
     "IMDB Rating": 89,
     "Titulo": "Action - The Dark Knight",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Toy Story 2",
@@ -67,7 +75,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 80,
     "Titulo": "Adventure - Toy Story 2",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Toy Story",
@@ -81,7 +91,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 82,
     "Titulo": "Adventure - Toy Story",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Lawrence of Arabia",
@@ -95,7 +107,9 @@
     "Rotten Tomatoes Rating": 98,
     "IMDB Rating": 86,
     "Titulo": "Adventure - Lawrence of Arabia",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Toy Story 3",
@@ -109,7 +123,9 @@
     "Rotten Tomatoes Rating": 99,
     "IMDB Rating": 89,
     "Titulo": "Adventure - Toy Story 3",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Being John Malkovich",
@@ -123,7 +139,9 @@
     "Rotten Tomatoes Rating": 92,
     "IMDB Rating": 79,
     "Titulo": "Black Comedy - Being John Malkovich",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Brazil",
@@ -137,7 +155,9 @@
     "Rotten Tomatoes Rating": 98,
     "IMDB Rating": 80,
     "Titulo": "Black Comedy - Brazil",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "A Hard Day's Night",
@@ -151,7 +171,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 76,
     "Titulo": "Comedy - A Hard Day's Night",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Eternal Sunshine of the Spotless Mind",
@@ -165,7 +187,9 @@
     "Rotten Tomatoes Rating": 93,
     "IMDB Rating": 85,
     "Titulo": "Comedy - Eternal Sunshine of the Spotless Mind",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Modern Times",
@@ -179,7 +203,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 85,
     "Titulo": "Comedy - Modern Times",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "DysFunkTional Family",
@@ -193,7 +219,9 @@
     "Rotten Tomatoes Rating": 43,
     "IMDB Rating": 59,
     "Titulo": "Concert/Performance - DysFunkTional Family",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 3,
+    "ESTRELLATOMATOES": 2
   },
   {
     "Title": "The Original Kings of Comedy",
@@ -207,7 +235,9 @@
     "Rotten Tomatoes Rating": 86,
     "IMDB Rating": 62,
     "Titulo": "Concert/Performance - The Original Kings of Comedy",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 3,
+    "ESTRELLATOMATOES": 4
   },
   {
     "Title": "Roger & Me",
@@ -221,7 +251,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 75,
     "Titulo": "Documentary - Roger & Me",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Iraq for Sale: The War Profiteers",
@@ -235,7 +267,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 78,
     "Titulo": "Documentary - Iraq for Sale: The War Profiteers",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Bowling for Columbine",
@@ -249,7 +283,9 @@
     "Rotten Tomatoes Rating": 96,
     "IMDB Rating": 82,
     "Titulo": "Documentary - Bowling for Columbine",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "No End In Sight",
@@ -263,7 +299,9 @@
     "Rotten Tomatoes Rating": 94,
     "IMDB Rating": 83,
     "Titulo": "Documentary - No End In Sight",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Rebecca",
@@ -277,7 +315,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 84,
     "Titulo": "Drama - Rebecca",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Big Parade",
@@ -291,7 +331,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 84,
     "Titulo": "Drama - The Big Parade",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Pulp Fiction",
@@ -305,7 +347,9 @@
     "Rotten Tomatoes Rating": 94,
     "IMDB Rating": 89,
     "Titulo": "Drama - Pulp Fiction",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Shawshank Redemption",
@@ -319,7 +363,9 @@
     "Rotten Tomatoes Rating": 88,
     "IMDB Rating": 92,
     "Titulo": "Drama - The Shawshank Redemption",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 5,
+    "ESTRELLATOMATOES": 4
   },
   {
     "Title": "Jaws",
@@ -333,7 +379,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 83,
     "Titulo": "Horror - Jaws",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Shining",
@@ -347,7 +395,9 @@
     "Rotten Tomatoes Rating": 87,
     "IMDB Rating": 85,
     "Titulo": "Horror - The Shining",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 4
   },
   {
     "Title": "Alien",
@@ -361,7 +411,9 @@
     "Rotten Tomatoes Rating": 97,
     "IMDB Rating": 85,
     "Titulo": "Horror - Alien",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Annie Get Your Gun",
@@ -375,7 +427,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 71,
     "Titulo": "Musical - Annie Get Your Gun",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Mary Poppins",
@@ -389,7 +443,9 @@
     "Rotten Tomatoes Rating": 100,
     "IMDB Rating": 77,
     "Titulo": "Musical - Mary Poppins",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Blues Brothers",
@@ -403,7 +459,9 @@
     "Rotten Tomatoes Rating": 84,
     "IMDB Rating": 79,
     "Titulo": "Musical - The Blues Brothers",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 4
   },
   {
     "Title": "My Fair Lady",
@@ -417,7 +475,9 @@
     "Rotten Tomatoes Rating": 94,
     "IMDB Rating": 79,
     "Titulo": "Musical - My Fair Lady",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Four Weddings and a Funeral",
@@ -431,7 +491,9 @@
     "Rotten Tomatoes Rating": 96,
     "IMDB Rating": 71,
     "Titulo": "Romantic Comedy - Four Weddings and a Funeral",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "It Happened One Night",
@@ -445,7 +507,9 @@
     "Rotten Tomatoes Rating": 97,
     "IMDB Rating": 83,
     "Titulo": "Romantic Comedy - It Happened One Night",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Apartment",
@@ -459,7 +523,9 @@
     "Rotten Tomatoes Rating": 91,
     "IMDB Rating": 84,
     "Titulo": "Romantic Comedy - The Apartment",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Conversation",
@@ -473,7 +539,9 @@
     "Rotten Tomatoes Rating": 98,
     "IMDB Rating": 81,
     "Titulo": "Thriller/Suspense - The Conversation",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Silence of the Lambs",
@@ -487,7 +555,9 @@
     "Rotten Tomatoes Rating": 96,
     "IMDB Rating": 87,
     "Titulo": "Thriller/Suspense - The Silence of the Lambs",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Inception",
@@ -501,7 +571,9 @@
     "Rotten Tomatoes Rating": 87,
     "IMDB Rating": 91,
     "Titulo": "Thriller/Suspense - Inception",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 5,
+    "ESTRELLATOMATOES": 4
   },
   {
     "Title": "Major Dundee",
@@ -515,7 +587,9 @@
     "Rotten Tomatoes Rating": 97,
     "IMDB Rating": 67,
     "Titulo": "Western - Major Dundee",
-    "MEJOR": "TOMATOES"
+    "MEJOR": "TOMATOES",
+    "ESTRELLAIMDB": 3,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "Butch Cassidy and the Sundance Kid",
@@ -529,7 +603,9 @@
     "Rotten Tomatoes Rating": 90,
     "IMDB Rating": 82,
     "Titulo": "Western - Butch Cassidy and the Sundance Kid",
-    "MEJOR": "IMDB"
+    "MEJOR": "IMDB",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   },
   {
     "Title": "The Wild Bunch",
@@ -543,6 +619,8 @@
     "Rotten Tomatoes Rating": 97,
     "IMDB Rating": 82,
     "Titulo": "Western - The Wild Bunch",
-    "MEJOR": "AMBAS"
+    "MEJOR": "AMBAS",
+    "ESTRELLAIMDB": 4,
+    "ESTRELLATOMATOES": 5
   }
 ]
