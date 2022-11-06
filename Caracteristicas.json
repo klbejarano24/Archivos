@@ -1,0 +1,32 @@
+[
+  {
+    "CARACTERISTICA": "Based on Play",
+    "IMDB": 0,
+    "TOMATOES": 2
+  },
+  {
+    "CARACTERISTICA": "Based on Comic/Graphic Novel",
+    "IMDB": 1,
+    "TOMATOES": 1
+  },
+  {
+    "CARACTERISTICA": "Based on Musical/Opera",
+    "IMDB": 1,
+    "TOMATOES": 1
+  },
+  {
+    "CARACTERISTICA": "Based on Real Life Events",
+    "IMDB": 3,
+    "TOMATOES": 4
+  },
+  {
+    "CARACTERISTICA": "Based on Book/Short Story",
+    "IMDB": 5,
+    "TOMATOES": 8
+  },
+  {
+    "CARACTERISTICA": "Original Screenplay",
+    "IMDB": 11,
+    "TOMATOES": 12
+  }
+]
